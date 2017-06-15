@@ -4,10 +4,18 @@
 
 - _today is a **good** day_
 
-- [Image of Yaktocat](http://image.baidu.com/search/down?tn=download&ipn=dwnl&word=download&ie=utf8&fr=result&url=http%3A%2F%2Fbizhi.4493.com%2Fuploads%2Fallimg%2F140822%2F4-140R2102313.jpg&thumburl=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D3091420284%2C3138079066%26fm%3D26%26gp%3D0.jpg)
+- If you want to embed images, this is how you do it:
+
+- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 @octocat  :telephone_receiver: :   :one: :five: :seven: :three: :three: :one: :seven: :three: :one: :seven: :six:
  
  :spades:  :hearts:  :clubs:  :diamonds:
  
-  :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree:
+  :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: :evergreen_tree: 
+  
+  标题 | 内容 | 备注
+  -----|------|-----
+  今天 | 不爽 | 烦人
+  昨天 | 下雨 | 没伞
