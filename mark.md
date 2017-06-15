@@ -1,7 +1,7 @@
 # cowsay 
 
--~~frinch~~
+- ~~frinch~~
 
--_today is a **good** day_
+- _today is a **good** day_
 
--[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
